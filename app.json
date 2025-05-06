@@ -20,7 +20,8 @@
         "foregroundImage": "./assets/skycast_adaptive.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.shoaibibrahim17.skycast"
+      "package": "com.shoaibibrahim17.skycast",
+      "jsEngine": "hermes"
     },
     "web": {
       "favicon": "./assets/favicon.png"
