@@ -17,12 +17,18 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
+        "foregroundImage": "./assets/skycast_adaptive.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.shoaibibrahim17.skycast"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "db7936a9-523a-4d10-b75d-068bda7ba33a"
+      }
     }
   }
 }
